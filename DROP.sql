@@ -1,0 +1,13 @@
+DROP TABLE Concerns;
+DROP TABLE Items;
+DROP TABLE Transactions;
+DROP TABLE Offers;
+DROP TABLE ContentsOfProduct;
+DROP TABLE Contracts;
+DROP TABLE Deliveries;
+DROP TABLE Amounts;
+DROP TABLE Boxes;
+DROP TABLE Customers;
+DROP TABLE ProductsCatalog;
+DROP TABLE Suppliers;
+DROP TABLE Materials;
